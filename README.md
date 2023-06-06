@@ -1,3 +1,4 @@
+![logo](https://github.com/Tajamal-Iqbal/Tajamal-Iqbal/blob/main/5582-github-blog-r3.jpg)
 <h1 align="center">Hi 👋, I'm Tajamal iqbal</h1>
 <h3 align="center">A passionate iOS developer from Pakistan</h3>
 
