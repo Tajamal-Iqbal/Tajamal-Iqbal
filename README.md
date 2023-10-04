@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tajamal-iqba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tajamal-iqba" height="30" width="40" /></a>
-<a href="https://fb.com/tajamal.iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tajamal.iqbal" height="30" width="40" /></a>
-<a href="https://instagram.com/tajamal_iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tajamal_iqbal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tajamal-iqbal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tajamal-iqba" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tajamal.iqbal.79?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tajamal.iqbal" height="30" width="40" /></a>
+<a href="https://instagram.com/tajamal_iqbal?igshid=NzZlODBkYWE4Ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tajamal_iqbal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
